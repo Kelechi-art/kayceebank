@@ -41,15 +41,19 @@ body {
       margin-right: 20px;
     }
 
-    .btn-login a {
-      font-size: 15px;  
-      color: #333;
+    .btn a{
+        text-decoration: none;
+        color: white;
+        font-size: 15px;
     }
 
-    .btn-signup a{
+    .btn-login a {
+      color: #333;
+    }
+    .header-inner div .btn-signup{
         font-size: 15px;
-      background-color: darkgoldenrod; 
-      color: #fff;
+        background-color: darkgoldenrod; 
+      /* color: #fff; */
     }
 
 
